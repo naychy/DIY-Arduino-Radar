@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the **DIY Arduino Radar** project! This rep
 
 ### 🎥 Watch the Full Tutorial on YouTube
 If you haven't seen the build video yet, check out the pure ASMR, step-by-step assembly process here:
-👉 **[Watch the Tutorial on YouTube]()**
+👉 **[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=gx60rdkk1mA)**
 
 ---
 
