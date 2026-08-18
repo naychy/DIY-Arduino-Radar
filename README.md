@@ -34,7 +34,7 @@ To build this project, you will need the following hardware:
 #### Step 2: Processing Setup
 1. Open the Processing code (`.pde` file) using the Processing IDE.
 2. Look for the serial port configuration line in the code. It usually looks something like this:
-   `myPort = new Serial(this, "COM3", 9600);`
+   `myPort = new Serial(this, "COM15", 115200);`
 3. Change `"COM3"` to match the exact COM port your Arduino is using.
 4. Click the **Run (Play button)** at the top left of the Processing window.
 5. A new window will pop up showing the radar screen mapping objects in real-time!
