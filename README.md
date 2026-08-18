@@ -44,7 +44,7 @@ To build this project, you will need the following hardware:
 ### 🤝 Support the Channel
 If you found this project helpful, please consider supporting the channel:
 * 👍 **LIKE** the YouTube video
-* 🔔 **SUBSCRIBE** to [EC TUTO]()
+* 🔔 **SUBSCRIBE** to [EC TUTO](https://www.youtube.com/@ECTUTO-u1e)
 * 💬 Let me know in the comments what you want to see next!
 
 *Happy Building!* 🛠️
