@@ -12,7 +12,7 @@ Servo myServo;
 void setup() {
   pinMode(trigPin, OUTPUT); 
   pinMode(echoPin, INPUT); 
-  Serial.begin(9600); 
+  Serial.begin(115200); 
   myServo.attach(servoPin); 
 }
 
